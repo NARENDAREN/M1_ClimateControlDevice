@@ -74,10 +74,9 @@ Climate Control Device
 | ID | Description | HLR ID | Status (Implemented/Future) |
 | ------ | --------- | ------ | ----- |
 |L1|User selects the mode |HR01|IMPLEMENTED|
-
-|L3| Display temperature inCelsius | H3|IMPLEMENTED|
-|L4|Converts into Fahrenheit to display | H3 | IMPLEMENTED |
-|L5|Displaying the Normalized Temperature  | H5 |IMPLEMENTED|
+|L2| Display temperature inCelsius | H3|IMPLEMENTED|
+|L3|Converts into Fahrenheit to display | H3 | IMPLEMENTED |
+|L4|Displaying the Normalized Temperature  | H5 |IMPLEMENTED|
 <!--
 Refernces have taken  google for some part of coding and information
 -->
